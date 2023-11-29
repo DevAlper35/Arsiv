@@ -1,2 +1,2 @@
 # Arsiv
-Çalıştığım firmalarda işleri pratikleştirme amaçlı yazılmış küçük kodlamalar
+Çalıştığım firmalarda zaman zaman, yapılan işleri pratikleştirme amaçlı yazılmış küçük kodlamalar
